@@ -1,4 +1,4 @@
-# Spotify Audio Clustering & Playlist Segmentation 🎵
+# Spotify Audio Clustering & Playlist Segmentation 
 
 ## Business Context
 Modern music streaming platforms rely heavily on contextual recommendations. Instead of grouping tracks strictly by genre or artist, this project segments over 89,000 Spotify tracks based purely on their **acoustic fingerprints** (audio features). The goal is to discover underlying sonic archetypes to power mood-based and context-aware playlist generation.
@@ -13,13 +13,13 @@ Modern music streaming platforms rely heavily on contextual recommendations. Ins
 
 Based on the multidimensional analysis, the algorithm identified the following track profiles:
 
-* **Cluster 0: Acoustic & Chill Focus** 🍂 
+* **Cluster 0: Acoustic & Chill Focus** 
   * *High acousticness, low energy.* Ideal for studying, reading, or relaxing.
-* **Cluster 1: High-Energy Workout & Party** 🔥 
+* **Cluster 1: High-Energy Workout & Party**  
   * *Peak energy, high danceability, and high loudness.* Designed for gym sessions or club environments.
-* **Cluster 2: Moody & Melancholic Late Night** 🌙 
+* **Cluster 2: Moody & Melancholic Late Night**  
   * *Low valence (sadness/melancholy), moderate tempo.* Perfect for late-night drives or emotional listening.
-* **Cluster 3: Instrumental & Ambient Soundscapes** 🌌 
+* **Cluster 3: Instrumental & Ambient Soundscapes**  
   * *High instrumentalness, low speechiness.* Ambient tracks with minimal vocals for deep work.
 
 ## Visualizations
